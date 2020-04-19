@@ -10,3 +10,7 @@ which will talk with eureka service to register itself in the service registry.
 3.>School Microservice – Same type as of Student service – only added feature is that 
 it will invoke Student service with service look up mechanism. 
 We will not use absolute URL of student service to interact with that service.
+
+
+-------------------------------------------------------------------------------------------------
+
